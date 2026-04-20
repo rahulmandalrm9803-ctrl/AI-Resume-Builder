@@ -164,11 +164,11 @@ Open `notebooks/AI_Resume_Builder_Demo.ipynb` in Google Colab, or click below:
 
 | Name | Role |
 |---|---|
-| Member 1 | AI/LLM Integration |
-| Member 2 | Streamlit GUI Development |
-| Member 3 | NLP & Skill Analyzer |
-| Member 4 | ATS Engine & Recommender |
-| Member 5 | Documentation & Presentation |
+| Rahul Kumar Mandal | AI/LLM Integration & Project Lead |
+| Ayush Rana | Streamlit GUI Development |
+| Rajesh | NLP & Skill Analyzer |
+| Rudra | ATS Engine & Course Recommender |
+
 
 ---
 
@@ -204,4 +204,3 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 - [Streamlit](https://streamlit.io) for the amazing web framework
 - [spaCy](https://spacy.io) for NLP tools
 - Original reference: [Radom12/AI_Resume_Analyzer](https://github.com/Radom12/AI_Resume_Analyzer)
-
